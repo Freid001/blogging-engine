@@ -9,7 +9,7 @@ include("pagetop.php");
 ?>
 
 <div id="main">
-<table>
+<table width="100%">
  <tr>
     <td width="65%" valign="top">
  <?php if($welcomeText!=""){ ?>

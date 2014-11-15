@@ -133,6 +133,11 @@ $query = "INSERT INTO `style` (`id`, `name`, `style`) VALUES
 $query = $db->prepare($query);
 $query->execute(); 
 
+$query = "INSERT INTO `style` (`id`, `name`, `style`) VALUES
+(5, 'welcomeText', '')";
+$query = $db->prepare($query);
+$query->execute(); 
+
 $query = "CREATE TABLE IF NOT EXISTS `comments` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `post` int(9) NOT NULL,

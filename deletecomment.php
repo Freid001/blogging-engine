@@ -22,7 +22,7 @@ $get_post = 0;
 		      //Update db and delete comment
 			  $query = $db->prepare("DELETE FROM comments WHERE id=:id LIMIT 1;");
               $query->execute(array(':id'=>$get_post));
-			  echo "<div align='center'><br />Comment deleted! (id: $get_post)</div><meta http-equiv='REFRESH' content='1;url=/proj/co525/blog/fiar2/admin/viewflagged.php'></HEAD><br /><br />";
+			  echo "<div align='center'><br />Comment deleted! (id: $get_post)</div><meta http-equiv='REFRESH' content='1;url=/index.php'></HEAD><br /><br />";
 		    }
 		  }else {
 		     echo "<div align='center' class='redtext'>You need level 1 permissions to uses this page!</div>";
