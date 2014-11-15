@@ -34,8 +34,7 @@ It you need to at any point re-install your blog:
 3.3.3: The owner can make or give permission for modifications to the blogging engine, it is the responsibility of the owner to ensure that all copyright is accounted for. 
 3.4: Freid Creations(Fraser Reid) cannot be held responsible for the actions of the blogging engine owner or code usage. 
 3.5: Freid Creations(Fraser Reid) cannot be held responsible for the loss of any data due to a defect or flaw in the blogging engine.
-3.6: Freid Creations(Fraser Reid) reserves the right to change or modify this disclaimer at any time without warning or notifying users. 
-	 It is the responsibility of the blogging owner to be: aware of and compliance with the disclaimer at all times.
+3.6: Freid Creations(Fraser Reid) reserves the right to change or modify this disclaimer at any time without warning or notifying users. It is the responsibility of the blogging owner to be: aware of and compliant with the disclaimer at all times.
 
 -------------------
 
