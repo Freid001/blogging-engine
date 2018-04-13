@@ -2,8 +2,8 @@
 
 ## About
 * A university project to build a blogging engine. 
-* This is a very simple blogging engine written in procedural and functional PHP.
-* Code base is it not really very good (I was learning PHP at the time).
+* This is a very simple blogging engine written in PHP.
+* Code base is very procedural (I was learning PHP at the time).
 
 ![home](https://github.com/Freid001/blogging-engine/blob/master/assets/screen1.jpg)
 
